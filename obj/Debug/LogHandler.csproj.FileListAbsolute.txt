@@ -1,0 +1,9 @@
+D:\mywork\Pengawasan Basis Data\MPN\mpn g2\BillerDJPSolutions\LogWriter\bin\Debug\LogWriter.dll
+D:\mywork\Pengawasan Basis Data\MPN\mpn g2\BillerDJPSolutions\LogWriter\bin\Debug\LogWriter.pdb
+D:\mywork\Pengawasan Basis Data\MPN\mpn g2\BillerDJPSolutions\LogWriter\obj\Debug\ResolveAssemblyReference.cache
+D:\mywork\Pengawasan Basis Data\MPN\mpn g2\BillerDJPSolutions\LogWriter\obj\Debug\LogWriter.dll
+D:\mywork\Pengawasan Basis Data\MPN\mpn g2\BillerDJPSolutions\LogWriter\obj\Debug\LogWriter.pdb
+C:\Source_app\BillerDJPSolutions\LogWriter\bin\Debug\LogWriter.dll
+C:\Source_app\BillerDJPSolutions\LogWriter\bin\Debug\LogWriter.pdb
+C:\Source_app\BillerDJPSolutions\LogWriter\obj\Debug\LogWriter.dll
+C:\Source_app\BillerDJPSolutions\LogWriter\obj\Debug\LogWriter.pdb

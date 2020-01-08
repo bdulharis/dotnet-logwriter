@@ -1,0 +1,5 @@
+C:\Source_app\BillerDJPSolutions\LogWriter\bin\Release\LogWriter.dll
+C:\Source_app\BillerDJPSolutions\LogWriter\bin\Release\LogWriter.pdb
+C:\Source_app\BillerDJPSolutions\LogWriter\obj\Release\LogWriter.dll
+C:\Source_app\BillerDJPSolutions\LogWriter\obj\Release\LogWriter.pdb
+C:\Source_app\BillerDJPSolutions\LogWriter\obj\Release\LogHandler.csprojResolveAssemblyReference.cache
