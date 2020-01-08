@@ -2,6 +2,7 @@
 this is a super simple library for writing log to a local file
 
 usage :
+
 LogWriter myLogwriter = new LogWriter(processName);
 myLogwriter.writeLog(myLogData);
 
